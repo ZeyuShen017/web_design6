@@ -1,0 +1,20 @@
+{
+  "name": "hw6",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Zeyu Shen <shen.zey@husky.neu.edu>",
+  "license": "MIT",
+  "scripts": {
+    "start": "webpack-dev-server --mode development"
+  },
+  "dependencies": {
+    "rxjs": "^5.5.5",
+    "ts-loader": "^6.2.1",
+    "typescript": "^3.8.2",
+    "webpack": "^4.41.6",
+    "webpack-dev-server": "^3.10.3"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.11"
+  }
+}
